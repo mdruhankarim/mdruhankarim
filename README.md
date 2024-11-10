@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://camo.githubusercontent.com/0de05e69460e5f7106d0ad1e5b017e73111a6c0bb758dae28a3353f3cb407a53/68747470733a2f2f692e6962622e636f2e636f6d2f7950367851724b2f556e7469746c65642d64657369676e2d312e676966" width="150px">
+  <img src="https://camo.githubusercontent.com/0de05e69460e5f7106d0ad1e5b017e73111a6c0bb758dae28a3353f3cb407a53/68747470733a2f2f692e6962622e636f2e636f6d2f7950367851724b2f556e7469746c65642d64657369676e2d312e676966" width="200px">
 </p>
 <h1 align="center">Hi 🙋‍♂️, I'm Ruhan</h1>
 <h3 align="center">Exploring the Boundless World of Technology</h3>
