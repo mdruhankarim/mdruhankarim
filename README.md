@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co/NjcR4Pr/ezgif-com-video-to-gif-converter-1.gif" width="150px">
+  <img src="https://camo.githubusercontent.com/c3b725f9230d55aa522c6e9facebb2fd1876370adbb90c763625618391c4b26d/68747470733a2f2f692e6962622e636f2f4e6a63523450722f657a6769662d636f6d2d766964656f2d746f2d6769662d636f6e7665727465722d312e676966" width="150px">
 </p>
 <h1 align="center">Hi 🙋‍♂️, I'm Ruhan</h1>
 <h3 align="center">Exploring the Boundless World of Technology</h3>
@@ -20,7 +20,7 @@
       <div style="width: 450px; height: 253px; overflow: hidden; display: inline-block;">
         <img 
           alt="Coding" 
-          src="https://i.ibb.co/Qc3KYW3/ezgif-com-video-to-gif-converter.gif" 
+          src="https://camo.githubusercontent.com/e00a23d2a4d23bb420122f5153410e494b6b0c96ff6d20d20a312adc7e39bef1/68747470733a2f2f692e6962622e636f2f5163334b5957332f657a6769662d636f6d2d766964656f2d746f2d6769662d636f6e7665727465722e676966" 
           style="width: 100%; height: 100%; object-fit: cover; object-position: center;"
         />
       </div>
