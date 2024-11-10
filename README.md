@@ -1,22 +1,88 @@
-![I'm improving myself day by day. I hope you'll like my profile in the future.](https://ibb.co.com/RHkNPbQ)
-### Hi there 👋, This is MD RUHAN KARIM
-#### I'm improving myself day by day. I hope you'll like my profile in the future.
+<p align="center">
+  <img src="https://i.ibb.co/NjcR4Pr/ezgif-com-video-to-gif-converter-1.gif" width="150px">
+</p>
+<h1 align="center">Hi 🙋‍♂️, I'm Ruhan</h1>
+<h3 align="center">Exploring the Boundless World of Technology</h3>
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=mdruhankarim&icon=0&color=0" alt="mdruhankarim" />
+</p>
 
-Wish you have a good day. You can see everything new every time you visit me.
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="left">
+      <ul>
+        <li>🌱 I’m currently learning <strong>Programming Basics</strong></li>
+        <li>📫 How to reach me: <a href="mailto:ruhan@duck.com">ruhan@duck.com</a></li>
+        <li>⚡ Fun fact: Call me as - <strong>MOCHA 😼</strong></li>
+      </ul>
+    </td>
+    <td width="50%" align="center">
+      <div style="width: 450px; height: 253px; overflow: hidden; display: inline-block;">
+        <img 
+          alt="Coding" 
+          src="https://i.ibb.co/Qc3KYW3/ezgif-com-video-to-gif-converter.gif" 
+          style="width: 100%; height: 100%; object-fit: cover; object-position: center;"
+        />
+      </div>
+    </td>
+  </tr>
+</table>
 
-Skills: HTML / CSS / PHOTOSHOP / ILLUSTRATOR / PREMIER PRO / AFTER EFFECT / 
+---
 
-- 🔭 I’m currently working on 🤨 
-- 🌱 I’m currently learning 🤐 
-- 👯 I’m looking to collaborate on 🖤 
-- 🤔 I’m looking for help with 😴 
-- 💬 Ask me about 😪 
-- 📫 How to reach me: 🐸 
-- 😄 Pronouns: 👦🏻 
-- ⚡ Fun fact: 😶 
+<h3 align="center">My Statistics</h3>
+<p align="center">
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mdruhankarim&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="mdruhankarim's GitHub stats" />
+        <br><br>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="mdruhankarim's streak stats" src="https://github-readme-streak-stats.herokuapp.com/?user=mdruhankarim&theme=dark&hide_border=false" />
+      </td>
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdruhankarim&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="mdruhankarim's top languages" />
+      </td>
+    </tr>
+  </table>
+</p>
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdruhankarim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mdruhankarim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mdruhankarim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mdruhankarim/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mdruhankarim)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC7nip9vI4hlU7869cUT-ETA)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg' alt='whatsapp' height='40'>](https://api.whatsapp.com/send/?phone=8801777490727&text&type=phone_number&app_absent=0)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg' alt='telegram' height='40'>](https://t.me/mdruhankarim)  
+<h3 align="center">Languages and Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt="Canva" />
+  <img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white" alt="Adobe" />
+  <img src="https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white" alt="Adobe Acrobat Reader" />
+  <img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" alt="Adobe Illustrator" />
+  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop" />
+  <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" alt="Adobe XD" />
+</p>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdruhankarim&show_icons=true)  
+---
 
+<h3 align="center">Connect with Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mdruhankarim/" target="_blank">
+    <img align="center" src="https://i.ibb.co/y0KPzmL/icons8-linkedin-48.png" alt="LinkedIn" height="50" width="50" />
+  </a>
+  <a href="https://www.codechef.com/users/mdruhankarim" target="_blank">
+    <img align="center" src="https://i.ibb.co/bQRdybJ/icons8-codechef-48.png" alt="CodeChef" height="50" width="50" />
+  </a>
+  <a href="https://www.facebook.com/mdruhankarim" target="_blank">
+    <img align="center" src="https://i.ibb.co/kS0rwMB/icons8-facebook-48.png" alt="Facebook" height="50" width="50" />
+  </a>
+  <a href="https://www.instagram.com/mdruhankarim" target="_blank">
+    <img align="center" src="https://i.ibb.co/4sjxMvt/icons8-instagram-100.png" alt="Instagram" height="50" width="50" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🏆 GitHub Profile Trophies</h3>
+<p align="center">
+  <a href="https://github-profile-trophy.vercel.app/?username=mdruhankarim&theme=radical&no-frame=true&no-bg=false&margin-w=4" target="_blank">
+    <img src="https://github-profile-trophy.vercel.app/?username=mdruhankarim&theme=radical&no-frame=true&no-bg=false&margin-w=4" alt="mdruhankarim's GitHub trophies" />
+  </a>
+</p>
