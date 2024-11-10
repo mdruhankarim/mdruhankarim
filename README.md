@@ -20,7 +20,7 @@
       <div style="width: 450px; height: 253px; overflow: hidden; display: inline-block;">
         <img 
           alt="Coding" 
-          src="https://i.ibb.co.com/6NnrgQZ/Untitled-design.gif" 
+          src="https://camo.githubusercontent.com/936e6564c32b098fa6f8d9950acbc51c912cd9823062c680eb99af9e09bacdca/68747470733a2f2f692e6962622e636f2e636f6d2f364e6e7267515a2f556e7469746c65642d64657369676e2e676966" 
           style="width: 100%; height: 100%; object-fit: cover; object-position: center;"
         />
       </div>
