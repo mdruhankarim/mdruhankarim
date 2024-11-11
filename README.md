@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/Fnn94Dc/sad-programmer-male-animation-unscreen.gif" width="200px">
+  <img src="https://i.ibb.co.com/1m8PXnc/programmers-go-internet.gif">
 </p>
 <h1 align="center">Hi 🙋‍♂️, I'm Ruhan</h1>
 <h3 align="center">Exploring the Boundless World of Technology</h3>
