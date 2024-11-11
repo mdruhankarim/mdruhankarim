@@ -20,7 +20,7 @@
       <div style="width: 450px; height: 253px; overflow: hidden; display: inline-block;">
         <img 
           alt="Coding" 
-          src="https://camo.githubusercontent.com/76a7382afbd140ae41d5b8c8366cd3601120e92e267f39760a105508d846e4d1/68747470733a2f2f692e6962622e636f2e636f6d2f6d386a725172512f416e696d6174696f6e2d313733313334313134353231332e676966" 
+          src="https://i.ibb.co.com/9cmr1F7/Animation-1731341145213-ezgif-com-video-to-gif-converter.gif" 
           style="width: 100%; height: 100%; object-fit: cover; object-position: center;"
         />
       </div>
