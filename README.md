@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.ibb.co.com/1m8PXnc/programmers-go-internet.gif">
+  <img src="https://camo.githubusercontent.com/bd4288684a847fed76f76c37fb85445610f4ebe0a618f88f99159f000dea0420/68747470733a2f2f692e6962622e636f2e636f6d2f316d3850586e632f70726f6772616d6d6572732d676f2d696e7465726e65742e676966" width:"200px">
 </p>
 <h1 align="center">Hi 🙋‍♂️, I'm Ruhan</h1>
 <h3 align="center">Exploring the Boundless World of Technology</h3>
