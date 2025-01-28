@@ -4,7 +4,7 @@
 <h1 align="center">Hi 🙋‍♂️, I'm Ruhan</h1>
 <h3 align="center">Exploring the Boundless World of Technology</h3>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mdruhankarim" alt="mdruhankarim" />
+  <img src="https://camo.githubusercontent.com/6180a406881483a5e991407109874bce0d4b85624791621126a3668b9b205269/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6d64727568616e6b6172696d" alt="mdruhankarim" />
 </p>
 
 <table align="center">
